@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  next-app:
+  next-app-example:
     build:
       context: ./next-app
       dockerfile: prod.Dockerfile
